@@ -15,8 +15,8 @@
   ],
   "devDependencies": {
     "@asciidoctor/core": "~2.2",
-    "@fontsource/overpass": "~4.5",
-    "@fontsource/overpass-mono": "~4.5",
+    "@fontsource/space-grotesk": "~4.5",
+    "@fontsource/space-mono": "~4.5",
     "autoprefixer": "~9.7",
     "browser-pack-flat": "~3.4",
     "browserify": "~16.5",
@@ -52,5 +52,9 @@
     "stylelint": "~13.3",
     "stylelint-config-standard": "~20.0",
     "vinyl-fs": "~3.0"
+  },
+  "dependencies": {
+    "@fontsource/space-grotesk": "^4.5.13",
+    "fontsource-overpass": "^4.0.0"
   }
 }
