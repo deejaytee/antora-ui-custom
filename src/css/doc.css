@@ -763,7 +763,7 @@
   top: 0.25rem;
   right: 0.5rem;
   color: var(--pre-annotation-font-color);
-  font-family: var(--body-font-family);
+  font-family: "Space Grotesk", sans-serif;
   font-size: calc(13 / var(--rem-base) * 1rem);
   line-height: 1;
   white-space: nowrap;
@@ -902,7 +902,7 @@
   border: 1px solid currentColor;
   border-radius: 100%;
   display: inline-block;
-  font-family: var(--body-font-family);
+  font-family: "Space Grotesk", sans-serif;
   font-size: calc(13.5 / var(--rem-base) * 1rem);
   font-style: normal;
   line-height: 1.2;
